@@ -1,0 +1,3 @@
+[submodule "nlw-connect-web"]
+	path = nlw-connect-web
+	url = https://github.com/GuilhermeFigueira/nlw-connect-web.git
